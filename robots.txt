@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zerotofirstsales.github.io/profitops-landing/sitemap.xml
